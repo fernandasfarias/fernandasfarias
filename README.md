@@ -1,5 +1,5 @@
 # 💫 About Me:
-📓Information Systems student at UFS<br>🌱 I’m currently learning HTML, CSS and JavaScript<br>📫 How to reach me fernandafariass734@gmail.com<br>🌐 My first site: [Interactive Quiz for Programmers](https://fernandasfarias.github.io/my-first-site/)
+📓Information Systems student at UFS<br>🌱 I’m currently learning HTML, CSS and JavaScript<br>📫 How to reach me: fernandafariass734@gmail.com<br>🌐 My first site: [Interactive Quiz for Programmers](https://fernandasfarias.github.io/my-first-site/)
 
 
 # 💻 Tech Stack:
