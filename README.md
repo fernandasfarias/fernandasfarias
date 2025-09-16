@@ -1,12 +1,60 @@
-# 💫 About Me:
-📓Information Systems student at Federal University of Sergipe (UFS)<br>🌱 I’m currently learning HTML, CSS and JavaScript<br>📫 How to reach me: fernandafariass734@gmail.com<br>🌐 My first site: [Interactive Quiz for Programmers](https://fernandasfarias.github.io/my-first-site/)
+<h1 align="center" style="color: #b57edc;">Olá! Seja bem-vindo(a) ao meu GitHub! ✧</h1>
 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandasfarias&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
-![](https://github-readme-stats.vercel.app/api?username=fernandasfarias&theme=dark&hide_border=false&include_all_commits=false&count_private=false) 
+#### <center>------------------------------シ------------------------------<br>Eu me chamo Fernanda Silva e atualmente estou no quarto período do curso de Sistemas de Informação na Universidade Federal de Sergipe (UFS). Atualmente estou estudando programação web e sempre querendo inventar coisas legais.<br>------------------------------シ------------------------------</center>
+---
+<p align="center" style="color: #b57edc;"><strong>Como me procurar?</strong></p><br>
+<p align="center">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail Icon" width="25" style="vertical-align: middle;">
+    <a href="fernandafariass734@gmail.com">fernandafariass734@gmail.com</a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="imagens/linkedin.png" alt="Linkedin Icon" width="25" style="vertical-align: middle;">
+    <a href="https://www.linkedin.com/in/fernandaafariass/">fernandafarias</a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=fernandasfarias&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center" style="color: #b57edc;"><strong>Tecnologias Utilizadas</strong></p><br>
+<p align="center">
+    <img src="imagens/c.png" alt="C icon" width="45" style="vertical-align: middle;">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="imagens/python.png" alt="Python icon" width="45" style="vertical-align: middle;">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="imagens/html.png" alt="HTML icon" width="45" style="vertical-align: middle;">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="imagens/css.png" alt="CSS icon" width="45" style="vertical-align: middle;">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="imagens/git.png" alt="Git icon" width="45" style="vertical-align: middle;">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="imagens/github.png" alt="GitHub icon" width="45" style="vertical-align: middle;">
+</p>
+
+---
+<p align="center" style="color: #b57edc;"><strong> Minhas atividades no GitHub</strong></p><br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fernandasfarias&show_icons=true&theme=tokyonight" width="40%" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandasfarias&layout=compact&theme=tokyonight" width="36%" /><br><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fernandasfarias&theme=tokyo-night&area=true" width="65%" />
+</div>
+
+---
+<p align="center" style="color: #b57edc;"><strong>Projetos</strong></p>
+<ul>
+    <li><a href="https://fernandasfarias.github.io/my-first-site/">Quiz para programadores - Primeiro projeto usando HTML e CSS</a></li>
+    <li><a href="https://github.com/fernandasfarias/POOcket_Bank">Projeto POOcket Bank - Utilizando o paradigma POO</a></li>
+    <li><a href="https://github.com/fernandasfarias/bank_queue_data_structure">Projeto para a matéria de Estrutura de Dados</a></li>
+</ul>
+
+---
+<p align="center" style="color: #b57edc;"><strong>Sempre Escutando</strong></p>
+
+<div align="center">
+    <a href="https://open.spotify.com/intl-pt/track/1j8z4TTjJ1YOdoFEDwJTQa?si=10f37999d5bc494a" target="_blank">
+        <img src="imagens/paramore.png" width="40%" alt="Header Paramore">
+    </a>
+    <p>Música Favorita: Ain't It Fun<br>Artista: Paramore</p>
+</div>
+
+---
