@@ -52,7 +52,7 @@
 <p align="center"><strong>Sempre Escutando</strong></p>
 
 <div align="center">
-    <a href="https://open.spotify.com/intl-pt/track/1j8z4TTjJ1YOdoFEDwJTQa?si=10f37999d5bc494a" target="_blank">
+    <a href="https://youtu.be/EFEmTsfFL5A?feature=shared" target="_blank">
         <img src="imagens/paramore.png" width="30%" alt="Header Paramore">
     </a>
     <p>Música Favorita: Ain't It Fun<br>Artista: Paramore</p>
