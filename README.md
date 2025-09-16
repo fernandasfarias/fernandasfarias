@@ -1,6 +1,7 @@
 <h1 align="center">Olá! Seja bem-vindo(a) ao meu GitHub! ✧</h1>
 
-#### <center>------------------------------シ------------------------------<br>Eu me chamo Fernanda Silva e atualmente estou no quarto período do curso de Sistemas de Informação na Universidade Federal de Sergipe (UFS). Atualmente estou estudando programação web e sempre querendo inventar coisas legais.<br>------------------------------シ------------------------------</center>
+<p align="center">------------------------------シ------------------------------<br>Eu me chamo Fernanda Silva e atualmente estou no quarto período do curso de Sistemas de Informação na Universidade Federal de Sergipe (UFS). Atualmente estou estudando programação web e sempre querendo inventar coisas legais.<br>------------------------------シ------------------------------</p>
+
 ---
 <p align="center"><strong>Como me procurar?</strong></p><br>
 <p align="center">
