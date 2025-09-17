@@ -33,11 +33,9 @@
 <p align="center"><strong> Minhas atividades no GitHub</strong></p><br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fernandasfarias&show_icons=true&theme=tokyonight" width="40%" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandasfarias&layout=compact&theme=tokyonight" width="36%" /><br><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fernandasfarias&theme=tokyo-night&area=true" width="65%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandasfarias&layout=compact&theme=tokyonight" width="35%" />
+    &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fernandasfarias&theme=tokyo-night&area=true" width="60%" />
 </div>
 
 ---
