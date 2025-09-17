@@ -49,17 +49,7 @@
 </ul>
 
 ---
-<p align="center"><strong>Sempre Escutando</strong></p>
-
-<div align="center">
-    <a href="https://youtu.be/EFEmTsfFL5A?feature=shared" target="_blank">
-        <img src="imagens/paramore.png" width="30%" alt="Header Paramore">
-    </a>
-    <p>Música Favorita: Ain't It Fun<br>Artista: Paramore</p>
-</div>
-
----
-<p align="center">"Só podemos alcançar o impossível se acreditarmos que é possível." - Alice no País das Maravilhas</p>
+<p align="center">"A única maneira de conseguir o impossível é acreditar que é possível." - Alice no País das Maravilhas</p>
 
 ---
 
