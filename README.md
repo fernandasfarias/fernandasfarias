@@ -54,9 +54,8 @@
 
 <p align="center"><strong>Projetos</strong></p>
 <ul>
+     <li><a href="https://fernandasfarias.github.io/my-first-site/">POOcket Bank - Versão Web (Em Andamento)</a></li>
     <li><a href="https://fernandasfarias.github.io/my-first-site/">Quiz para programadores - Primeiro projeto usando HTML e CSS</a></li>
-    <li><a href="https://github.com/fernandasfarias/POOcket_Bank">Projeto POOcket Bank - Utilizando o paradigma POO</a></li>
-    <li><a href="https://github.com/fernandasfarias/bank_queue_data_structure">Projeto para a matéria de Estrutura de Dados</a></li>
 </ul>
 
 ---
