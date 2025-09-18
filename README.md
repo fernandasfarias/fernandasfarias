@@ -54,7 +54,7 @@
 
 <p align="center"><strong>Projetos</strong></p>
 <ul>
-     <li><a href="https://fernandasfarias.github.io/my-first-site/">POOcket Bank - Versão Web (Em Andamento)</a></li>
+     <li><a href="https://fernandasfarias.github.io/web_POOcket_Bank/">POOcket Bank - Versão Web (Em Andamento)</a></li>
     <li><a href="https://fernandasfarias.github.io/my-first-site/">Quiz para programadores - Primeiro projeto usando HTML e CSS</a></li>
 </ul>
 
