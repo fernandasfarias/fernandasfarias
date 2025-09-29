@@ -58,7 +58,3 @@
 </ul>
 
 ---
-<p align="center">"A única maneira de conseguir o impossível é acreditar que é possível." - Alice no País das Maravilhas</p>
-
----
-
