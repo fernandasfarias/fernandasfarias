@@ -55,6 +55,7 @@
 
 <p align="center"><strong>Projetos</strong></p>
 <ul>
-     <li><a href="https://fernandasfarias.github.io/curriculo_desafio_1/">Meu Currículo (2025)</a></li>
-    <li><a href="https://fernandasfarias.github.io/my-first-site/">Quiz para programadores - Primeiro projeto usando HTML e CSS (2025)</a></li>
+    <li><a href="https://fernandasfarias.github.io/lista_de_contatos/">Lista de contatos com personagens fictícios</a></li>
+    <li><a href="https://fernandasfarias.github.io/curriculo_desafio_1/">Currículo</a></li>
+    <li><a href="https://fernandasfarias.github.io/my-first-site/">Quiz para programadores</a></li>
 </ul>
