@@ -1,11 +1,7 @@
 <h1 align="center">Hello, World! 🩵</h1>
 
----
-```python
-print("My name is Fernanda Farias.")
-print("I am in the fourth semester of the Information Systems course at the Federal University of Sergipe (UFS).")
-print("I am currently studying web programming and always looking to create cool things.")
-```
+<p>Hi! My name is Fernanda Farias. I am in the fourth semester of the Information Systems course at the Federal University of Sergipe and studying web programming.</p>
+
 ---
 
 <p align="center"><strong>How to reach me? 📬 </strong></p><br>
