@@ -1,10 +1,14 @@
-<h1 align="center">Olá! Seja bem-vindo(a) ao meu GitHub! ✧</h1>
-
-<p align="center">------------------------------シ------------------------------<br>Eu me chamo Fernanda Farias e estou no quarto período do curso de Sistemas de Informação na Universidade Federal de Sergipe (UFS). Atualmente estou estudando programação web e sempre querendo inventar coisas legais.<br>------------------------------シ------------------------------</p>
+<h1 align="center">Hello, World! 🩵</h1>
 
 ---
+```python
+print("My name is Fernanda Farias.")
+print("I am in the fourth semester of the Information Systems course at the Federal University of Sergipe (UFS).")
+print("I am currently studying web programming and always looking to create cool things.")
+```
+---
 
-<p align="center"><strong>Como me procurar?</strong></p><br>
+<p align="center"><strong>How to reach me? 📬 </strong></p><br>
 <p align="center">
      <a href="mailto:fernandafariass734@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Icon" width="120">
@@ -17,11 +21,11 @@
 
 ---
 
-<p align="center"><strong>Hard Skills</strong></p>
+<p align="center"><strong>Hard Skills 📝</strong></p>
 <table align="center">
     <tr>
-        <th>Linguagens</th>
-        <th>Ferramentas</th>
+        <th>Languagens</th>
+        <th>Tools</th>
     </tr>
     <tr>
         <td align="center">
@@ -42,7 +46,7 @@
             
 ---
 
-<p align="center"><strong> Minhas atividades no GitHub</strong></p><br>
+<p align="center"><strong>My activities on GitHub 🔍</strong></p><br>
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandasfarias&layout=compact&theme=tokyonight" width="35%" />
@@ -52,10 +56,10 @@
 
 ---
 
-<p align="center"><strong>Projetos</strong></p>
+<p align="center"><strong>Projects 🎉</strong></p>
 <ul>
-     <li><a href="https://fernandasfarias.github.io/contact_list_2/">Lista de contatos com personagens do universo de Tim Burton</a></li>
-    <li><a href="https://fernandasfarias.github.io/lista_de_contatos/">Lista de contatos com personagens fictícios</a></li>
-    <li><a href="https://fernandasfarias.github.io/curriculo_desafio_1/">Currículo</a></li>
-    <li><a href="https://fernandasfarias.github.io/my-first-site/">Quiz para programadores</a></li>
+     <li><a href="https://fernandasfarias.github.io/contact_list_2/">Contact List of Tim Burton's Characters</a></li>
+    <li><a href="https://fernandasfarias.github.io/lista_de_contatos/">Contact List of fictional characters</a></li>
+    <li><a href="https://fernandasfarias.github.io/curriculo_desafio_1/">My Curriculum Vitae</a></li>
+    <li><a href="https://fernandasfarias.github.io/my-first-site/">Quiz for programmers</a></li>
 </ul>
