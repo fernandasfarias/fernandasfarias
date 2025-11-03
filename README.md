@@ -27,7 +27,6 @@
         <td align="center">
            <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" width=100 alt="Python">
            <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" width=55 alt="C">
-           <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" width=60 alt="Java">
            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width=130 alt="JavaScript"><br>
            <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width=95 alt="HTML">
            <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width=65 alt="CSS">
@@ -55,6 +54,7 @@
 
 <p align="center"><strong>Projetos</strong></p>
 <ul>
+     <li><a href="https://fernandasfarias.github.io/contact_list_2/">Lista de contatos com personagens do universo de Tim Burton</a></li>
     <li><a href="https://fernandasfarias.github.io/lista_de_contatos/">Lista de contatos com personagens fictícios</a></li>
     <li><a href="https://fernandasfarias.github.io/curriculo_desafio_1/">Currículo</a></li>
     <li><a href="https://fernandasfarias.github.io/my-first-site/">Quiz para programadores</a></li>
