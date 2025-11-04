@@ -1,6 +1,6 @@
 <h1 align="center">Hello, World! 🩵</h1>
 
-<p>Hi! My name is Fernanda Farias. I am in the fourth semester of the Information Systems course at the Federal University of Sergipe and I'm currently studying studying web programming.</p>
+<p>Hi! My name is Fernanda Farias. I am in the fourth semester of the Information Systems course at the Federal University of Sergipe and I'm currently studying web programming.</p>
 
 ---
 
