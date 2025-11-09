@@ -1,6 +1,7 @@
 <h1 align="center">Hello, World! 🪐</h1>
 
-<p>Hi! My name is Fernanda Farias. I am in the fourth semester of the Information Systems course at the Federal University of Sergipe and I'm currently studying web programming.</p>
+<p align="left">✧ fourth semester of the Information Systems course</p>
+<p align="left">✧ I'm currently studying web programming.</p>
 
 ---
 
@@ -61,10 +62,6 @@
     <li><a href="https://fernandasfarias.github.io/curriculo_desafio_1/">My Curriculum Vitae</a></li>
     <li><a href="https://fernandasfarias.github.io/my-first-site/">Quiz for programmers</a></li>
 </ul>
-
----
-
-<p align="center"><a href="https://github.com/nandasfarias">My GitHub account for studies 📚</a></p>
 
 ---
 
