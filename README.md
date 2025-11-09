@@ -13,6 +13,8 @@
     <a href="https://www.linkedin.com/in/fernandaafariass/">
          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Icon" width="100">
     </a>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+     <a href="https://github.com/nandasfarias"><img src="https://github.com/user-attachments/assets/d0780fa4-1890-412a-bd31-21d5b7cd6eee" alt="GitHub for studies" width=40></a>
 </p>
 
 ---
@@ -59,6 +61,10 @@
     <li><a href="https://fernandasfarias.github.io/curriculo_desafio_1/">My Curriculum Vitae</a></li>
     <li><a href="https://fernandasfarias.github.io/my-first-site/">Quiz for programmers</a></li>
 </ul>
+
+---
+
+<p align="center"><a href="https://github.com/nandasfarias">My GitHub account for studies 📚</a></p>
 
 ---
 
