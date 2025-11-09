@@ -63,7 +63,7 @@
 ---
 
 <p align=center>
-     <img src="https://img.icons8.com/?size=100&id=fgZOAgsjjF6h&format=png&color=000000" width=90>
+     <img src="https://img.icons8.com/?size=100&id=RqqDJXJdIXjB&format=png&color=000000" width=90>
      <img src="https://github.com/user-attachments/assets/1d6f9043-85e2-491f-bc33-cf94e4431b0f" width=90>
-     <img src="https://img.icons8.com/?size=100&id=Zd4TgNNX1xDd&format=png&color=000000)0" width=90>
+     <img src="https://img.icons8.com/?size=100&id=H8aja9ATZntf&format=png&color=000000" width=90>
 </p>
