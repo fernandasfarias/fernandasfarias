@@ -67,6 +67,6 @@
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31q2uqauws77tlh6cztqkqgn4bse&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31q2uqauws77tlh6cztqkqgn4bse&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=8f2ac6&bar_color_cover=false" width=450>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31q2uqauws77tlh6cztqkqgn4bse&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=8f2ac6&bar_color_cover=false" width=460>
   </a>
 </p>
