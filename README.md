@@ -65,8 +65,10 @@
 
 ---
 
-<p align=center>
-     <img src="https://img.icons8.com/?size=100&id=RqqDJXJdIXjB&format=png&color=000000" width=90>&nbsp;&nbsp;
-     <img src="https://github.com/user-attachments/assets/293e6b9c-89d8-4a9f-96d1-bd24b7b60758" width=85>
-     <img src="https://img.icons8.com/?size=100&id=H8aja9ATZntf&format=png&color=000000" width=90>
+<p align="center">
+  <img src="https://img.icons8.com/?size=100&id=RqqDJXJdIXjB&format=png&color=000000" width=80>
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31q2uqauws77tlh6cztqkqgn4bse&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=true">
+  </a>
+  <img src="https://img.icons8.com/?size=100&id=H8aja9ATZntf&format=png&color=000000" width=80>
 </p>
