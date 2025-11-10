@@ -6,17 +6,27 @@
 ---
 
 <p align="center"><strong>How to reach me? ✨ </strong></p><br>
-<p align="center">
-     <a href="mailto:fernandafariass734@gmail.com" target="_blank">
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="mailto:fernandafariass734@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Icon" width="100">
-     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/fernandaafariass/">
-         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Icon" width="100">
-    </a>
-      &nbsp;&nbsp;&nbsp;&nbsp;
-     <a href="https://github.com/nandasfarias"><img src="https://github.com/user-attachments/assets/d0780fa4-1890-412a-bd31-21d5b7cd6eee" alt="GitHub for studies" width=40></a>
-</p>
+      </a>
+    </td>
+
+<td align="center">
+      <a href="https://www.linkedin.com/in/fernandaafariass/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Icon" width="105">
+      </a>
+</td>
+
+<td align="center">
+      <a href="https://github.com/nandasfarias">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub for studies" width="115">
+      </a>
+</td>
+  </tr>
+</table>
 
 ---
 
