@@ -1,7 +1,7 @@
 <h1 align="center"> ✮⋆˙ Hello, World! ✮⋆˙</h1>
 
 <p align="left">✧ Fourth semester of the Information Systems course.</p>
-<p align="left">✧ I'm currently studying web programming.</p>
+<p align="left">✧ I'm currently studying web programming and data science.</p>
 
 ---
 
