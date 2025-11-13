@@ -1,32 +1,8 @@
 <h1 align="center"> ✮⋆˙ Hello, World! ✮⋆˙</h1>
 
-<p align="left">✧ Fourth semester of the Information Systems course.</p>
-<p align="left">✧ I'm currently studying web programming and data science.</p>
-
----
-
-<p align="center"><strong>How to reach me? ✨ </strong></p><br>
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="mailto:fernandafariass734@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Icon" width="100">
-      </a>
-    </td>
-
-<td align="center">
-      <a href="https://www.linkedin.com/in/fernandaafariass/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Icon" width="105">
-      </a>
-</td>
-
-<td align="center">
-      <a href="https://github.com/nandasfarias">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub for studies" width="115">
-      </a>
-</td>
-  </tr>
-</table>
+<p align="left">🎓 Fourth semester of the Information Systems course.</p>
+<p align="left">💻 Studying Web Programming.</p>
+<p align="left">📖 Studying Image Processing.</p>
 
 ---
 
@@ -72,3 +48,17 @@
     <li><a href="https://fernandasfarias.github.io/curriculo_desafio_1/">My Curriculum Vitae</a></li>
     <li><a href="https://fernandasfarias.github.io/my-first-site/">Quiz for programmers</a></li>
 </ul>
+
+---
+
+<p align="left">
+  <a href="mailto:fernandafariass734@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Icon" width="100">
+</a>
+<a href="https://www.linkedin.com/in/fernandaafariass/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Icon" width="105">
+</a>
+<a href="https://github.com/nandasfarias">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub for studies" width="115">
+</a>
+</p>
