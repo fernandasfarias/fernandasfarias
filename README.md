@@ -1,4 +1,4 @@
-<h1 align="center"> ✮⋆˙ Hello, World! ✮⋆˙</h1>
+<h1 align="center">Hello, World 🩵</h1>
 
 <p align="left">🎓 Fourth semester of the Information Systems course.</p>
 <p align="left">💻 Studying Web Programming.</p>
@@ -9,21 +9,26 @@
 <p align="center"><strong>Hard Skills 🎯</strong></p>
 <table align="center">
     <tr>
+        <th>Libraries</th>
         <th>Languages</th>
         <th>Tools</th>
     </tr>
     <tr>
+        <td align=center>
+            <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" width=100 alt="NumPy">
+            <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" width=110 alt="Pandas">
+        </td>
         <td align="center">
-           <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" width=100 alt="Python">
+           <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" width=100 alt="Python">
            <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" width=52 alt="C">
-           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width=125 alt="JavaScript"><br>
+           <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width=125 alt="JavaScript"><br>
            <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width=90 alt="HTML">
            <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width=60 alt="CSS">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" width=70 alt="Git"> 
             <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" width=90 alt="Linux"><br>
-            <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" width=145 alt="VS Code">
+            <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" width=90 alt="VS Code">
             <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width=100 alt="GitHub">
         </td>
     </tr>
