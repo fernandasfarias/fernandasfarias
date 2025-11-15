@@ -2,7 +2,6 @@
 
 <p align="left">🎓 Fourth semester of the Information Systems course.</p>
 <p align="left">💻 Studying Web Programming.</p>
-<p align="left">📖 Studying Image Processing.</p>
 
 ---
 
@@ -11,13 +10,8 @@
     <tr>
         <th>Libraries</th>
         <th>Languages</th>
-        <th>Tools</th>
     </tr>
     <tr>
-        <td align=center>
-            <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" width=100 alt="NumPy">
-            <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" width=110 alt="Pandas">
-        </td>
         <td align="center">
            <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" width=100 alt="Python">
            <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" width=52 alt="C">
