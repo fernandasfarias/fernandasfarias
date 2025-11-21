@@ -1,7 +1,7 @@
 <h1 align="center">Hello, World 🩵</h1>
 
 <p align="left">🎓 Fourth semester of the Information Systems course.</p>
-<p align="left">💻 Studying Web Programming and Machine Learning.</p>
+<p align="left">💻 Studying Web Programming and Neural Networks.</p>
 
 ---
 
