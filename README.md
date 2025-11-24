@@ -8,8 +8,8 @@
 <p align="center"><strong>Hard Skills 🎯</strong></p>
 <table align="center">
     <tr>
-        <th>Libraries</th>
         <th>Languages</th>
+        <th>Tools</th>
     </tr>
     <tr>
         <td align="center">
