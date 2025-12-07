@@ -57,7 +57,4 @@
 <a href="https://www.linkedin.com/in/fernandaafariass/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Icon" width="105">
 </a>
-<a href="https://github.com/nandasfarias">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub for studies" width="115">
-</a>
 </p>
