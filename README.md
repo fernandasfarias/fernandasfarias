@@ -1,4 +1,4 @@
-<h1 align="center">Hello, World 🩵</h1>
+<h1 align="center">Hello, World!</h1>
 
 <p align="left">🎓 Fourth semester of the Information Systems course.</p>
 <p align="left">💻 Studying Web Programming.</p>
