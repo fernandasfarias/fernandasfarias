@@ -31,16 +31,6 @@
             
 ---
 
-<p align="center"><strong>My activities on GitHub 🌌</strong></p><br>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandasfarias&layout=compact&theme=tokyonight" width="32%" />
-        &nbsp;&nbsp;&nbsp;
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=fernandasfarias&theme=tokyo-night&area=true" width="50%" />
-</div>
-
----
-
 <p align="center"><strong>Projects 💫</strong></p>
 <ul>
      <li><a href="https://fernandasfarias.github.io/contact_list_2/">Contact List of Tim Burton's Characters</a></li>
