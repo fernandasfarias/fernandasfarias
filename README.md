@@ -31,16 +31,6 @@
             
 ---
 
-<p align="center"><strong>Projects 💫</strong></p>
-<ul>
-     <li><a href="https://fernandasfarias.github.io/contact_list_2/">Contact List of Tim Burton's Characters</a></li>
-    <li><a href="https://fernandasfarias.github.io/lista_de_contatos/">Contact List of fictional characters</a></li>
-    <li><a href="https://fernandasfarias.github.io/curriculo_desafio_1/">My Curriculum Vitae</a></li>
-    <li><a href="https://fernandasfarias.github.io/my-first-site/">Quiz for programmers</a></li>
-</ul>
-
----
-
 <p align="left">
   <a href="mailto:fernandafariass734@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Icon" width="100">
