@@ -1,7 +1,7 @@
 # 👩‍💻 About me
 🎓 Fourth semester of the Information Systems course.</p>
-🔎 Interested in the areas of Software Engineering and Neural Networks.</p>
-💻 Currently studying React.</p>
+🔎 Interested in the areas of Software Engineering, Artificial Intelligence and Data Analysis.</p>
+💻 Currently studying Python and React.</p>
 
 ## 📖 My Skills
   <a href="https://skillicons.dev">
