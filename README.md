@@ -4,7 +4,7 @@
 
 ## 📖 My Skills
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,react,html,css,python,c,git,github" />
+    <img src="https://skillicons.dev/icons?i=javascript,react,html,css,python,c,postgres,git,github" />
   </a>
 
   ## 📮 How to reach me?<br>
