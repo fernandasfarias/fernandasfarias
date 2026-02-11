@@ -15,5 +15,4 @@
    <a href="https://skillicons.dev">
     <a href="mailto:fernandafariass734@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
     <a href="https://www.linkedin.com/in/fernandaafariass/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-     <a href="https://www.instagram.com/nandasfarias_/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   </a>
