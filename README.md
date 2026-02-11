@@ -1,6 +1,10 @@
-# 👩‍💻 Fernanda Farias
-🎓 Fourth semester of the Information Systems course.</p>
-💻 Currently studying React.</p>
+# 👩‍💻 Fernanda S. Farias
+📚 | **Information Systems** student at the Federal University of Sergipe (UFS).<br>
+🚀 | **Software engineering** and **Data engineering** enthusiast.<br>
+👾 | Currently studying **React**, **TypeScript** and **SQL**.<br>
+🛠️ | I'm always creating new projects - currently developing **Costs**, a project management application, to practice React.<br>
+💙 | Currently working as a volunteer at **Softeam** Junior Enterprise.
+
 
 ## 📖 My Skills
   <a href="https://skillicons.dev">
