@@ -4,7 +4,7 @@
 👾 | Currently studying **React**, **TypeScript** and **SQL**.<br>
 🛠️ | I'm always creating new projects - currently developing **Costs**, a project management application, to practice React.<br>
 💙 | Currently working as a volunteer at **Softeam** Junior Enterprise.<br>
-🌎 | English Level **B2**, with development at the **English School CCAA**.
+🇬🇧 | English Level **B2**, with development at the **English School CCAA**.
 
 
 ## 📖 My Skills
