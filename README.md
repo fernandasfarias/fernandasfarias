@@ -1,4 +1,4 @@
-# 👩‍💻 Fernanda S. Farias
+# 👩‍💻 Fernanda Silva Farias
 📚 | **Information Systems** student at the Federal University of Sergipe (UFS).<br>
 🚀 | **Software engineering** and **Data engineering** enthusiast.<br>
 👾 | Currently studying **React**, **TypeScript** and **SQL**.<br>
@@ -17,3 +17,6 @@
     <a href="mailto:fernandafariass734@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
     <a href="https://www.linkedin.com/in/fernandaafariass/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   </a>
+
+## 🛸 My GitHub Stats
+<img src="https://streak-stats.demolab.com?user=fernandasfarias&theme=tokyonight&hide_border=true" alt="fernandasfarias's GitHub Stats" />
