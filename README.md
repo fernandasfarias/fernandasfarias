@@ -49,4 +49,9 @@
 </table>
 
 ## 🛸 My GitHub Stats
-<img src="https://streak-stats.demolab.com?user=fernandasfarias&theme=tokyonight&hide_border=true" alt="fernandasfarias's GitHub Stats" />
+<p align="center">
+  <img height="180em" src="https://readme-stats-github.pages.dev/api?username=fernandasfarias">
+  &nbsp;&nbsp;
+  <img height="180em" src="https://readme-stats-github.pages.dev/api/top-langs?username=fernandasfarias"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=fernandasfarias&theme=tokyonight&hide_border=true"/>
+</p>
