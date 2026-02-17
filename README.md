@@ -18,7 +18,7 @@
     <a href="https://www.linkedin.com/in/fernandaafariass/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   </a>
 
-## ✍ My projects
+## 🩷 My projects
 <table>
   <thead>
     <tr>
