@@ -7,18 +7,18 @@
 🇬🇧 | English Level **B2**, with development at the **English School CCAA**.
 
 
-## 📖 My Skills
+## 🪐 My Skills
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,react,html,css,python,c,git,github" />
   </a>
 
-  ## 📮 How to reach me?<br>
+  ## 🔭 How to reach me?<br>
    <a href="https://skillicons.dev">
     <a href="mailto:fernandafariass734@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
     <a href="https://www.linkedin.com/in/fernandaafariass/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   </a>
 
-## 🩷 My projects
+## 🌌 My projects
 <table>
   <thead>
     <tr>
@@ -36,6 +36,14 @@
       <td>
         <a href="https://github.com/fernandasfarias/costs-Reactproject" target="_blank">🔗 View Repository</a>
       </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>🐶 <strong>PetCare</strong></td>
+      <td>Simplified customer registration in a petshop</td>
+      <td>HTML · CSS · JavaScript · JSON Mock</td>
+      <td><a href="https://github.com/fernandasfarias/petCare">🔗 View Repository</a></td>
     </tr>
   </tbody>
 </table>
