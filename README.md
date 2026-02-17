@@ -18,5 +18,27 @@
     <a href="https://www.linkedin.com/in/fernandaafariass/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   </a>
 
+## ✍ My projects
+<table>
+  <thead>
+    <tr>
+      <th align="left">Project</th>
+      <th align="left">Description</th>
+      <th align="left">Technologies</th>
+      <th align="left">Repository</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🪙 <strong>Costs: Project Manager</strong></td>
+      <td>Project management service for controlling projects, services, and costs.</td>
+      <td>React · JSON Mock</td>
+      <td>
+        <a href="https://github.com/fernandasfarias/costs-Reactproject" target="_blank">🔗 View Repository</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ## 🛸 My GitHub Stats
 <img src="https://streak-stats.demolab.com?user=fernandasfarias&theme=tokyonight&hide_border=true" alt="fernandasfarias's GitHub Stats" />
