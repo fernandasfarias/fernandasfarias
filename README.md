@@ -2,7 +2,7 @@
 📚 | **Information Systems** student at the Federal University of Sergipe (UFS).<br>
 🚀 | **Software engineering** and **Data engineering** enthusiast.<br>
 👾 | Currently studying **React**, **TypeScript** and **SQL**.<br>
-🛠️ | I'm always creating new projects - currently developing **Costs**, a project management application, to practice React.<br>
+🛠️ | I'm always creating new projects - currently developing a **To-Do List** as a personal project to improve my skills with **Next.js**, **TypeScript**, **Tailwind CSS** and **PostgreSQL**.<br>
 💙 | Currently working as a volunteer at **Softeam** Junior Enterprise.<br>
 🇬🇧 | English Level **B2**, with development at the **English School CCAA**.
 
