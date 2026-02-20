@@ -49,6 +49,6 @@
 
 ## 🛸 My Stats
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img height="180em" src="https://streak-stats.demolab.com?user=fernandasfarias&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://leetcard.jacoblin.cool/nandafarias"/>
+  <img width="400em" height="180em" src="https://streak-stats.demolab.com?user=fernandasfarias&theme=tokyonight&hide_border=true"/>
+  <img width="400em" height="180em" src="https://leetcard.jacoblin.cool/nandafarias"/>
 </div>
