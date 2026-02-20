@@ -1,7 +1,6 @@
 # 👩‍💻 Fernanda Silva Farias
 📚 | **Information Systems** student at the Federal University of Sergipe (UFS).<br>
 🚀 | **Software engineering** and **Data engineering** enthusiast.<br>
-👾 | Currently studying **React**, **TypeScript** and **SQL**.<br>
 🛠️ | I'm always creating new projects - currently developing a **To-Do List** as a personal project to improve my skills with **Next.js**, **TypeScript**, **Tailwind CSS** and **PostgreSQL**.<br>
 💙 | Currently working as a volunteer at **Softeam** Junior Enterprise.<br>
 🇬🇧 | English Level **B2**, with development at the **English School CCAA**.
@@ -30,7 +29,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>🪙 <strong>Costs: Project Manager</strong></td>
+      <td><strong>Costs: Project Manager</strong></td>
       <td>Project management service for controlling projects, services, and costs.</td>
       <td>React · JSON Mock</td>
       <td>
@@ -40,7 +39,7 @@
   </tbody>
   <tbody>
     <tr>
-      <td>🐶 <strong>PetCare</strong></td>
+      <td><strong>PetCare</strong></td>
       <td>Simplified customer registration in a petshop</td>
       <td>HTML · CSS · JavaScript · JSON Mock</td>
       <td><a href="https://github.com/fernandasfarias/petCare">🔗 View Repository</a></td>
@@ -48,9 +47,10 @@
   </tbody>
 </table>
 
-## 🛸 My GitHub Stats
+## 🛸 My Stats
 <p align="center">
   <img height="180em" src="https://streak-stats.demolab.com?user=fernandasfarias&theme=tokyonight&hide_border=true"/>
   &nbsp;&nbsp;
   <img height="180em" src="https://readme-stats-github.pages.dev/api/top-langs?username=fernandasfarias"/>
+  <img src="https://leetcard.jacoblin.cool/nandafarias">
 </p>
