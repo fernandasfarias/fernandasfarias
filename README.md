@@ -1,7 +1,7 @@
 # 👩‍💻 Fernanda Silva Farias
 📚 | **Information Systems** student at the Federal University of Sergipe (UFS).<br>
 🚀 | **Software engineering** and **Data engineering** enthusiast.<br>
-🛠️ | I'm always creating new projects - currently developing a **To-Do List** as a personal project to improve my skills with **Next.js**, **TypeScript**, **Tailwind CSS** and **PostgreSQL**.<br>
+🛠️ | I'm always creating new projects - currently developing a **To-Do List** and my **portfolio** as personal projects to improve my skills in **Next.js**, **TypeScript**, **Tailwind CSS** and **PostgreSQL**.<br>
 💙 | Currently working as a volunteer at **Softeam** Junior Enterprise.<br>
 🇬🇧 | English Level **B2**, with development at the **English School CCAA**.
 
