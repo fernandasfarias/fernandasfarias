@@ -49,7 +49,7 @@
     <a href="https://leetcode.com/u/nandafarias/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-D8BFD8?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
   </p>
 
-## ➵ My projects
+## ➵ My Projects
 <table>
   <thead>
     <tr>
