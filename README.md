@@ -34,9 +34,10 @@
 <p>
   <img src="https://img.shields.io/badge/Git-B57EDC?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-9B59B6?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Google%20Colab-C8A2C8?style=for-the-badge&logo=googlecolab&logoColor=white">
   <img src="https://img.shields.io/badge/VS%20Code-B39DDB?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/Google%20Colab-C8A2C8?style=for-the-badge&logo=googlecolab&logoColor=white">
   <img src="https://img.shields.io/badge/Jupyter%20Notebook-C8A2C8?style=for-the-badge&logo=jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/Kaggle-4C1D95?style=for-the-badge&logo=kaggle&logoColor=white">
 </p>
 
 
