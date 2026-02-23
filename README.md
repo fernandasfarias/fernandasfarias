@@ -1,23 +1,49 @@
-# 👩‍💻 Fernanda Silva Farias
-📚 | **Information Systems** student at the Federal University of Sergipe (UFS).<br>
-🚀 | **Software engineering** and **Data engineering** enthusiast.<br>
-🛠️ | I'm always creating new projects - currently developing a **To-Do List** and my **portfolio** as personal projects to improve my skills in **Next.js**, **TypeScript**, **Tailwind CSS** and **PostgreSQL**.<br>
-💙 | Currently working as a volunteer at **Softeam** Junior Enterprise.<br>
-🇬🇧 | English Level **B2**, with development at the **English School CCAA**.
+# ᡣ𐭩 Fernanda Silva Farias
+> Information Systems student — Federal University of Sergipe (UFS)  
+> Software Engineering & Data Engineering enthusiast  
+> Building: Portfolio (Next.js, TypeScript, Tailwind CSS)  
+> Volunteer — Softeam Junior Enterprise  
+> English — B2 (CCAA)
 
 
-## 🪐 My Skills
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,html,css,python,c,git,github" />
-  </a>
+## ➵ My Skills
+<p><strong>• Programming Languages</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/Python-C8A2C8?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-B57EDC?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-D8B7E8?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/C-9B59B6?style=for-the-badge&logo=c&logoColor=white">
+</p>
+<p><strong>• FrontEnd</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/HTML-B57EDC?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-D8B7E8?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/React-C8A2C8?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-9B59B6?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/Next.js-A66DD4?style=for-the-badge&logo=nextdotjs&logoColor=white">
+</p>
+<p><strong>• Data Analysis and Artificial Intelligence</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/pandas-B57EDC?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-D8B7E8?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-9B59B6?style=for-the-badge&logo=plotly&logoColor=white">
+  <img src="https://img.shields.io/badge/Excel-A66DD4?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit--Learn-C8A2C8?style=for-the-badge&logo=scikitlearn&logoColor=white">
+</p>
+<p><strong>• Tools</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/Git-B57EDC?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-9B59B6?style=for-the-badge&logo=github&logoColor=white">
+</p>
 
-  ## 🔭 How to reach me?<br>
+
+  ## ➵ How to reach me?<br>
    <a href="https://skillicons.dev">
-    <a href="mailto:fernandafariass734@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-    <a href="https://www.linkedin.com/in/fernandaafariass/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+    <a href="mailto:fernandafariass734@gmail.com"><img src="https://img.shields.io/badge/Gmail-C8A2C8?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/fernandaafariass/"><img src="https://img.shields.io/badge/LinkedIn-9B59B6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   </a>
 
-## 🌌 My projects
+## ➵ My projects
 <table>
   <thead>
     <tr>
@@ -46,13 +72,3 @@
     </tr>
   </tbody>
 </table>
-
-## 🛸 My Stats
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img width="400em" height="180em" src="https://streak-stats.demolab.com?user=fernandasfarias&theme=tokyonight&hide_border=true&"/>
-  <img width="400em" height="180em" src="https://leetcard.jacoblin.cool/nandafarias?theme=transparent&border=0"/>
-</div>
-
----
-
-<p align="center">“Intelligence is the ability to adapt to change. ” - Stephen Hawking</p>
