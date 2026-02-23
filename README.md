@@ -38,6 +38,7 @@
   <img src="https://img.shields.io/badge/Google%20Colab-C8A2C8?style=for-the-badge&logo=googlecolab&logoColor=white">
   <img src="https://img.shields.io/badge/Jupyter%20Notebook-C8A2C8?style=for-the-badge&logo=jupyter&logoColor=white">
   <img src="https://img.shields.io/badge/Kaggle-4C1D95?style=for-the-badge&logo=kaggle&logoColor=white">
+  <img src="https://img.shields.io/badge/Obsidian-DA70D6?style=for-the-badge&logo=obsidian&logoColor=white">
 </p>
 
 
