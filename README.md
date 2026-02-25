@@ -1,4 +1,8 @@
-# ᡣ𐭩 Fernanda Silva Farias
+<h1>
+  <img src="https://github.com/user-attachments/assets/6788352c-353c-4937-a0dd-eb33bbfc35ab" width="50" style="vertical-align: middle; margin-right: 10px;" />
+  Fernanda Silva Farias
+</h1>
+
 - Information Systems student — Federal University of Sergipe (UFS)  
 - Software Engineering & Data Engineering enthusiast  
 - Building: Portfolio (TypeScript, React, Next.js, Tailwind CSS)  
