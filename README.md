@@ -71,7 +71,7 @@
     <tr>
       <td><strong>Costs: Project Manager</strong></td>
       <td>Project management service for controlling projects, services, and costs.</td>
-      <td>ReactJS · JSON Mock</td>
+      <td>React · JSON Mock</td>
       <td>
         <a href="https://github.com/fernandasfarias/costs-Reactproject" target="_blank">🔗 View Repository</a>
       </td>
