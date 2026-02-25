@@ -1,9 +1,9 @@
 # ᡣ𐭩 Fernanda Silva Farias
-> Information Systems student — Federal University of Sergipe (UFS)  
-> Software Engineering & Data Engineering enthusiast  
-> Building: Portfolio (Next.js, TypeScript, Tailwind CSS)  
-> Volunteer — Softeam Junior Enterprise  
-> English — B2 (CCAA)
+- Information Systems student — Federal University of Sergipe (UFS)  
+- Software Engineering & Data Engineering enthusiast  
+- Building: Portfolio (TypeScript, React, Next.js, Tailwind CSS)  
+- Volunteer — Softeam Junior Enterprise  
+- English — B2 (CCAA)
 
 
 ## ➵ My Skills
@@ -19,14 +19,19 @@
   <img src="https://img.shields.io/badge/HTML-B57EDC?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-D8B7E8?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/React-C8A2C8?style=for-the-badge&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-9B59B6?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/Next.js-A66DD4?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-9B59B6?style=for-the-badge&logo=tailwind-css&logoColor=white">
+</p>
+<p><strong>• Web & APIs</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/HTTP-B57EDC?style=for-the-badge&logo=internetexplorer&logoColor=white">
+  <img src="https://img.shields.io/badge/REST%20API-D8B7E8?style=for-the-badge&logo=fastapi&logoColor=white">
 </p>
 <p><strong>• Data Analysis and Artificial Intelligence</strong></p>
 <p>
   <img src="https://img.shields.io/badge/pandas-B57EDC?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/NumPy-D8B7E8?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Matplotlib-9B59B6?style=for-the-badge&logo=plotly&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-9B59B6?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/Excel-A66DD4?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   <img src="https://img.shields.io/badge/Scikit--Learn-C8A2C8?style=for-the-badge&logo=scikitlearn&logoColor=white">
 </p>
@@ -35,10 +40,7 @@
   <img src="https://img.shields.io/badge/Git-B57EDC?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-9B59B6?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/VS%20Code-B39DDB?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-  <img src="https://img.shields.io/badge/Google%20Colab-C8A2C8?style=for-the-badge&logo=googlecolab&logoColor=white">
   <img src="https://img.shields.io/badge/Jupyter%20Notebook-C8A2C8?style=for-the-badge&logo=jupyter&logoColor=white">
-  <img src="https://img.shields.io/badge/Kaggle-4C1D95?style=for-the-badge&logo=kaggle&logoColor=white">
-  <img src="https://img.shields.io/badge/Obsidian-DA70D6?style=for-the-badge&logo=obsidian&logoColor=white">
 </p>
 
 
@@ -61,9 +63,15 @@
   </thead>
   <tbody>
     <tr>
+      <td><strong>My portfolio - IN PROGRESS !</strong></td>
+      <td>Portfolio showcasing my experience, skills and projects.</td>
+      <td>TypeScript · React · Next.js · Tailwind CSS</td>
+      <td><a href="https://github.com/fernandasfarias/fernandasilva-portfolio">🔗 View Repository</td>
+    </tr>
+    <tr>
       <td><strong>Costs: Project Manager</strong></td>
       <td>Project management service for controlling projects, services, and costs.</td>
-      <td>React · JSON Mock</td>
+      <td>ReactJS · JSON Mock</td>
       <td>
         <a href="https://github.com/fernandasfarias/costs-Reactproject" target="_blank">🔗 View Repository</a>
       </td>
