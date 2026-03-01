@@ -53,7 +53,8 @@
     <a href="mailto:fernandafariass734@gmail.com"><img src="https://img.shields.io/badge/Gmail-C8A2C8?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/fernandaafariass/"><img src="https://img.shields.io/badge/LinkedIn-9B59B6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://leetcode.com/u/nandafarias/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-D8BFD8?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  </p>
+    <a href="https://www.instagram.com/nandasfarias_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-C8A2C8?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+   </p>
 
 ## ➵ My Projects
 <table>
