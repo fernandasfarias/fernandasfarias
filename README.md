@@ -68,7 +68,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><strong>My portfolio - IN PROGRESS !</strong></td>
+      <td><strong>My portfolio</strong></td>
       <td>Portfolio showcasing my experience, skills and projects.</td>
       <td>TypeScript · React · Next.js · Tailwind CSS</td>
       <td><a href="https://github.com/fernandasfarias/fernandasilvafarias-portfolio">🔗 View Repository</td>
