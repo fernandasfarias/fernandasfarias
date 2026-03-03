@@ -4,8 +4,7 @@
 </h1>
 
 - Information Systems student - Federal University of Sergipe (UFS)  
-- Software Engineering & Data Engineering enthusiast  
-- Building: Portfolio (TypeScript, React, Next.js, Tailwind CSS)  
+- Software Engineering & Data Engineering enthusiast   
 - Volunteer - Softeam Junior Enterprise  
 - English - B2 (CCAA)
 
