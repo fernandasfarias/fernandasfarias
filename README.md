@@ -6,7 +6,7 @@
 - Information Systems student - Federal University of Sergipe (UFS)  
 - Software Engineering & Data Engineering enthusiast   
 - Volunteer - Softeam Junior Enterprise  
-- English - B2 (CCAA)
+- English - C1 (CCAA)
 
 
 ## ➵ My Skills
