@@ -3,8 +3,7 @@
   Fernanda Silva Farias
 </h1>
 
-- Information Systems student - Federal University of Sergipe (UFS)  
-- Software Engineering & Data Engineering enthusiast   
+- Information Systems student - Federal University of Sergipe (UFS)    
 - Volunteer - Softeam Junior Enterprise  
 - English - C1 (CCAA)
 
