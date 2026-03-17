@@ -3,7 +3,8 @@
   Fernanda Silva Farias
 </h1>
 
-- Information Systems student - Federal University of Sergipe (UFS)    
+- Information Systems student - Federal University of Sergipe (UFS)
+- Software Developer and Researcher in the Neural Networks area   
 - Volunteer - Softeam Junior Enterprise  
 - English - C1 (CCAA)
 - <a href="https://fernandasilvafarias-portfolio.vercel.app/">Check out my portfolio!</a>
