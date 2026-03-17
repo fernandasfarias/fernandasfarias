@@ -51,7 +51,7 @@
    <p>
     <a href="mailto:fernandafariass734@gmail.com"><img src="https://img.shields.io/badge/Gmail-C8A2C8?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/fernandaafariass/"><img src="https://img.shields.io/badge/LinkedIn-9B59B6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://lattes.cnpq.br/4566444163751383" target="_blank"><img src="https://img.shields.io/badge/Currículo%20Lattes-4B0082?style=for-the-badge&logo=readme&logoColor=white"/></a>
+    <a href="https://lattes.cnpq.br/4566444163751383" target="_blank"><img src="https://img.shields.io/badge/Curriculum%20Vitae%20(Lattes)-4B0082?style=for-the-badge&logo=readme&logoColor=white"/></a>
    </p>
 
 ## ➵ My Projects
