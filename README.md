@@ -6,6 +6,7 @@
 - Information Systems student - Federal University of Sergipe (UFS)    
 - Volunteer - Softeam Junior Enterprise  
 - English - C1 (CCAA)
+- <a href="https://fernandasilvafarias-portfolio.vercel.app/">Check out my portfolio!</a>
 
 
 ## ➵ My Skills
