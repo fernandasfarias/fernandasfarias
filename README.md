@@ -13,6 +13,7 @@
 ## ➵ My Skills
 <p><strong>• Programming Languages</strong></p>
 <p>
+  <img src="https://img.shields.io/badge/Java-C8A2C8?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Python-C8A2C8?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-B57EDC?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-D8B7E8?style=for-the-badge&logo=typescript&logoColor=white">
@@ -25,6 +26,11 @@
   <img src="https://img.shields.io/badge/React-C8A2C8?style=for-the-badge&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/Next.js-A66DD4?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Tailwind%20CSS-9B59B6?style=for-the-badge&logo=tailwind-css&logoColor=white">
+</p>
+<p><strong>• BackEnd</strong><p>
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-B39DDB?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Boot-A66DD4?style=for-the-badge&logo=springboot&logoColor=white">
 </p>
 <p><strong>• Web & APIs</strong></p>
 <p>
