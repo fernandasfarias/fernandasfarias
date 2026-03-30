@@ -9,16 +9,10 @@
 
 
 ## My Skills
-<p><strong>• Programming Languages</strong></p>
-<p>
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=ED8B00">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB">
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6">
-  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=A8B9CC">
-</p>
 <p><strong>• FrontEnd</strong></p>
 <p>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6">
   <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=E34F26">
   <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=1572B6">
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -27,6 +21,7 @@
 </p>
 <p><strong>• BackEnd</strong><p>
 <p>
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=ED8B00">
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1">
   <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=6DB33F">
 </p>
@@ -37,6 +32,7 @@
 </p>
 <p><strong>• Data Analysis and Artificial Intelligence</strong></p>
 <p>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB">
   <img src="https://img.shields.io/badge/pandas-000000?style=for-the-badge&logo=pandas&logoColor=150458">
   <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=013243">
   <img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logoColor=FFFFFF">
@@ -45,6 +41,7 @@
 </p>
 <p><strong>• Tools</strong></p>
 <p>
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=A8B9CC">
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC">
