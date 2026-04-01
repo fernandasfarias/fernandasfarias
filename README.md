@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/Tailwind%20CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=00FFD5&logoWidth=35">
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00BFFF&logoWidth=35">
   <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=39FF14&logoWidth=35">
-  <img src="https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=FF8C00&logoWidth=35">
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FF2D2D&logoWidth=35">
 </p>
 
