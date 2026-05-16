@@ -1,4 +1,4 @@
-# 👩‍💻 Fernanda Farias #OpenToWork
+# 👩‍💻 Fernanda Farias 
 
 ## 🚀 Sobre mim
 
@@ -46,9 +46,7 @@
 ## 📊 Estatística GitHub
 
 <div align="center">
-
 <img src="https://streak-stats.demolab.com/?user=SEUUSUARIO&theme=tokyonight"/>
-
 </div>
 
 ---
@@ -62,9 +60,7 @@
 | [📚 Library System OOP](https://github.com/fernandasfarias/library-system-oop-python) | Python • POO | Sistema de biblioteca desenvolvido utilizando conceitos de Programação Orientada a Objetos, aplicando encapsulamento, classes e regras de negócio. |
 
 ## 📌 Projetos em desenvolvimento
-
 🚧 Plataforma FullStack para a matéria de Engenharia de Software
-
 🚧 Projetos de Deep Learning
 
 ---
@@ -73,8 +69,3 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)]([COLE_LINKEDIN](https://www.linkedin.com/in/fernandaafariass/?skipRedirect=true))
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:fernandafariass734@gmail.com)
-
----
-
-> “A única forma de chegar ao impossível é acreditar que é possível.”
-
