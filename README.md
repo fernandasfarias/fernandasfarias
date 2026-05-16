@@ -3,10 +3,9 @@
 ## 🚀 Sobre mim
 
 * 🎓 Estudante da área de Computação
-* 💡 Interesse em Desenvolvimento Full Stack, IA e Dados
-* 🌱 Atualmente estudando: Java, Spring Boot, APIs REST, Machine Learning e arquitetura de software
+* 💡 Interesse em Desenvolvimento FullStack e IA
+* 🌱 Atualmente estudando: Spring Boot, Deep Learning e arquitetura de software
 * 🔎 Buscando estágio em tecnologia
-* 📚 Sempre aprendendo algo novo
 
 ---
 
