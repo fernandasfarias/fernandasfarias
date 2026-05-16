@@ -60,6 +60,7 @@
 
 ## 📌 Projetos em desenvolvimento
 🚧 Plataforma FullStack para a matéria de Engenharia de Software
+
 🚧 Projetos de Deep Learning
 
 ---
