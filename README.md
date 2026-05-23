@@ -3,7 +3,7 @@
 ## 🚀 Sobre mim
 
 * Estudante da área de Computação;
-* Interesse em Desenvolvimento FullStack e IA;
+* Interesse em Desenvolvimento FullStack e pesquisas na área de Inteligência Artificial;
 * Atualmente estudando: Engenharia de Software, Engenharia de Dados e Deep Learning;
 
 ---
