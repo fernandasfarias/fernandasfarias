@@ -4,7 +4,7 @@
 
 * Estudante da área de Computação;
 * Interesse em Desenvolvimento FullStack e IA;
-* Atualmente estudando: Spring Boot, Deep Learning e arquitetura de software;
+* Atualmente estudando: Engenharia de Software, Engenharia de Dados e Deep Learning;
 
 ---
 
@@ -56,10 +56,8 @@
 | [🌐 Portfólio Pessoal](https://github.com/fernandasfarias/fernandasilvafarias-portfolio) | React • HTML • CSS | Site de portfólio desenvolvido para apresentar projetos, habilidades e trajetória na área de tecnologia. |
 | [📚 Library System OOP](https://github.com/fernandasfarias/library-system-oop-python) | Python • POO | Sistema de biblioteca desenvolvido utilizando conceitos de Programação Orientada a Objetos, aplicando encapsulamento, classes e regras de negócio. |
 
-## 📌 Projetos em desenvolvimento
-🚧 Plataforma FullStack para a matéria de Engenharia de Software
-
-🚧 Projetos de Deep Learning
+## 📌 Projeto em desenvolvimento
+- Sistema de gerenciamento de projetos para a matéria de Engenharia de Software
 
 ---
 
