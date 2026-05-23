@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mim
 
-* Estudante da área de Computação;
+* Estudante da área de Computação na UFS;
 * Interesse em Desenvolvimento FullStack e pesquisas na área de Inteligência Artificial;
 * Atualmente estudando: Engenharia de Software, Engenharia de Dados e Deep Learning;
 
