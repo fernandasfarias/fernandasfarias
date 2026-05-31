@@ -61,13 +61,13 @@ My main interests include:
 - Backend architecture best practices
 
 ---
-🏆 Highlights
+## 🏆 Highlights
 - 🥇 1st place at HackAiá Hackathon
 - Neural Networks Research experience
 - Experience in academic leadership and teamwork
 
 ---
-🎯 Goals
+## 🎯 Goals
 - Secure an international internship or entry-level Software Engineer role
 - Contribute to open-source projects
 - Strengthen expertise in scalable systems and AI
