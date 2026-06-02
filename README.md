@@ -1,17 +1,11 @@
 # 👩‍💻 Hi There! I'm Fernanda Farias!
-Computing student | Aspiring Software Engineer | Neural Networks Researcher
+Computing student | Aspiring Software Engineer
 
 ## 🚀 About me
 
-I'm a Computing student at the Federal University of Sergipe (UFS), passionate about Software Development, artificial intelligence, and building impactful solutions.
+I'm a Computing student at the Federal University of Sergipe (UFS), passionate about Software Development and building impactful solutions.
 
 Currently, I work as Human Resources Advisor at Softeam and Participate in the leadership team of Dcomp Mulheres, both technical and soft skills such as leadership, communication, and teamwork.
-
-My main interests include:
-- Full-Stack Development
-- Backend Engineer
-- Artificial Intelligence and Neural Networks
-- Problem Solving and Algorithms
   
 ---
 
