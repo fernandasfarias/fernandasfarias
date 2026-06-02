@@ -6,8 +6,6 @@ Computing student | Aspiring Software Engineer
 I'm a Computing student at the Federal University of Sergipe (UFS), passionate about Software Development and building impactful solutions.
 
 Currently, I work as Human Resources Advisor at Softeam and Participate in the leadership team of Dcomp Mulheres, both technical and soft skills such as leadership, communication, and teamwork.
-  
----
 
 ## 🛠️ Tech Stack
 
