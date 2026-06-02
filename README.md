@@ -47,37 +47,7 @@ My main interests include:
 
 ---
 
-## 📊 GitHub Statisc
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=SEUUSUARIO&theme=tokyonight"/>
-</div>
-
----
-## 📌 Currently Learning
-- Data Structures & Algorithms (LeetCode Practice)
-- System Design fundamentals
-- Advanced React Patterns
-- Backend architecture best practices
-
----
-## 🏆 Highlights
-- 🥇 1st place at HackAiá Hackathon
-- Neural Networks Research experience
-- Experience in academic leadership and teamwork
-
----
-## 🎯 Goals
-- Secure an international internship or entry-level Software Engineer role
-- Contribute to open-source projects
-- Strengthen expertise in scalable systems and AI
-
----
-
 ## 📫 Contact
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/fernandaafariass)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:fernandafariass734@gmail.com)
-
---- 
-⭐ Always learning, building, and improving.
