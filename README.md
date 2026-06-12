@@ -1,5 +1,5 @@
 # 👩‍💻 Fernanda Farias
-Estudante de computação | Pesquisadora na área de Deep Learning 
+Estudante de computação | Desenvolvedora de Software | Pesquisadora na área de Deep Learning 
 
 ## ↪ Sobre mim
 Olá! Eu me chamo Fernanda, tenho 20 anos e estudo Sistemas de Informação na UFS. Atualmente faço parte do setor de Recursos Humanos na Empresa Júnior Softeam e faço parte da liderança do Dcomp Mulheres, uma iniciativa do Departamento de Computação da UFS para unir e demonstrar a força feminina na área de Tecnologia da Informação. Além disso, faço pesquisa na área de Deep Learning, com foco em desenvolver soluções na área de medicina.
