@@ -2,7 +2,7 @@
 Estudante de computação | Desenvolvedora de Software | Pesquisadora na área de Deep Learning 
 
 ## ↪ Sobre mim
-Olá! Eu me chamo Fernanda, tenho 20 anos e estudo Sistemas de Informação na UFS. Atualmente faço parte do setor de Recursos Humanos na Empresa Júnior Softeam e pesquisa na área de Deep Learning, com foco em desenvolver soluções na área de medicina.
+Olá! Eu me chamo Fernanda, tenho 20 anos e estudo Sistemas de Informação na UFS. Atualmente faço parte do setor de Recursos Humanos na Empresa Júnior Softeam e pesquisa na área de Deep Learning, com foco em desenvolver soluções na área médica.
 
 ## ↪ Tech Stack
 
