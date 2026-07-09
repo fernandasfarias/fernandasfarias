@@ -36,7 +36,7 @@ Estou sempre buscando aprender novas tecnologias, aprimorar minhas habilidades e
 ### ⭐ TaskFlow
 O TaskFlow é uma plataforma Full Stack de gerenciamento de projetos criada para organizar equipes, tarefas e entregas em um único ambiente. A aplicação foi desenvolvida pensando em um cenário real de software, envolvendo desde o levantamento de requisitos até o deploy da aplicação.
 
-Nesse projeto eu desenvolvi habilidades na área de Engenharia de Software, atuei como Tech Lead, desenvolvedora FullStack e DevOps do projeto.
+Nesse projeto, desenvolvi habilidades relacionadas à Engenharia de Software, participando de todas as etapas do ciclo de desenvolvimento. Atuei como Tech Lead, Desenvolvedora Full Stack e responsável pelas práticas de DevOps, contribuindo desde a documentação e definição da arquitetura até o desenvolvimento, configuração da infraestrutura e realização do deploy da aplicação.
 
 Link de acesso: https://github.com/fernandasfarias/taskFlow-frontEnd
 
