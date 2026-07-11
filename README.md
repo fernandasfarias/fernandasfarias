@@ -8,6 +8,14 @@ Tenho interesse em desenvolvimento Full Stack, com experiência em tecnologias c
 
 Estou sempre buscando aprender novas tecnologias, aprimorar minhas habilidades e desenvolver soluções que unam qualidade de código, inovação e impacto.
 
+## 🏆 Conquistas
+### 🥇 1º Lugar – HackAiá Hackathon
+
+Conquistei o 1º lugar no HackAiá Hackathon, realizado em Aracaju (SE), uma competição voltada ao desenvolvimento de soluções tecnológicas para preservar e fortalecer a cultura junina sergipana.
+
+Durante o evento, tive a oportunidade de trabalhar em equipe na criação de uma solução que unisse tecnologia, negócios e impacto social. Além do desenvolvimento do produto, aprofundei meus conhecimentos em modelagem de negócios, validação de ideias, vendas, empreendedorismo e mercado de tecnologia, compreendendo como transformar uma solução técnica em um produto capaz de gerar valor para as pessoas.
+
+Essa experiência reforçou a importância de desenvolver tecnologia centrada no usuário e mostrou que as melhores soluções surgem quando inovação, colaboração e propósito caminham juntos.
 
 ## 🛠️  Tech Stack
 
@@ -52,5 +60,5 @@ Principais funcionalidades:
 
 Stack:
 - Backend: Java + Spring Boot
-- Frontend: React + Vite + Tailwind CSS
+- Frontend: JavaScript + React
 - Banco: PostgreSQL
