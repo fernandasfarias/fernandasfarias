@@ -17,28 +17,6 @@ Durante o evento, tive a oportunidade de trabalhar em equipe na criação de uma
 
 Essa experiência reforçou a importância de desenvolver tecnologia centrada no usuário e mostrou que as melhores soluções surgem quando inovação, colaboração e propósito caminham juntos.
 
-## 🛠️  Tech Stack
-
-### Frontend
- <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
-
-### Backend
-<img src="https://skillicons.dev/icons?i=java,spring,python,postgres" />
-
-### Outros
-<img src="https://skillicons.dev/icons?i=git,github,docker" />
-
-## 📫 Contato
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/fernandaafariass" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:fernandafariass734@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
-
 ## 🌟 Projeto Principal
 
 ### ⭐ TaskFlow
@@ -62,3 +40,25 @@ Stack:
 - Backend: Java + Spring Boot
 - Frontend: JavaScript + React
 - Banco: PostgreSQL
+
+## 🛠️  Tech Stack
+
+### Frontend
+ <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
+
+### Backend
+<img src="https://skillicons.dev/icons?i=java,spring,python,postgres" />
+
+### Outros
+<img src="https://skillicons.dev/icons?i=git,github,docker" />
+
+## 📫 Contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/fernandaafariass" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:fernandafariass734@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
