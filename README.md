@@ -2,9 +2,7 @@
 
 Olá! Eu sou Fernanda Silva, estudante de Sistemas de Informação e apaixonada por tecnologia e desenvolvimento de software.
 
-Atualmente, dedico meus estudos ao desenvolvimento de aplicações, buscando compreender todo o ciclo de construção de um software, desde a análise de requisitos e regras de negócio até a implementação, testes e deploy.
-
-Tenho interesse em desenvolvimento Full Stack, com experiência em tecnologias como Java, Spring Boot, React e Python. Além disso, participo de um grupo de pesquisa voltado para Redes Neurais, explorando aplicações de Inteligência Artificial e aprendizado de máquina.
+Atualmente, dedico meus estudos ao desenvolvimento de aplicações, buscando compreender todo o ciclo de construção de um software, desde a análise de requisitos e regras de negócio até a implementação, testes e deploy. Tenho interesse em desenvolvimento Full Stack, com experiência em tecnologias como Java, Spring Boot, React e Python.
 
 Estou sempre buscando aprender novas tecnologias, aprimorar minhas habilidades e desenvolver soluções que unam qualidade de código, inovação e impacto.
 
