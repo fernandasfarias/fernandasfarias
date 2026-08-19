@@ -1,7 +1,7 @@
 # 💜 Fernanda Farias
-↪ Estudante de Sistemas de Informação (UFS)
-↪ Foco em esenvolvimento de software
-↪ Pesquisadora na área de Engenharia de Software
+↪ Estudante de Sistemas de Informação (UFS) <br>
+↪ Foco em esenvolvimento de software <br>
+↪ Pesquisadora na área de Engenharia de Software <br>
 
 ## ⚙️ Hard Skills
 
