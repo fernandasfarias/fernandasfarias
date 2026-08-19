@@ -1,66 +1,33 @@
-# 👩‍💻 Fernanda Farias
+# 💜 Fernanda Farias
+↪ Estudante de Sistemas de Informação (UFS)
+↪ Foco em esenvolvimento de software
+↪ Pesquisadora na área de Engenharia de Software
 
-Olá! Eu sou Fernanda Silva, estudante de Sistemas de Informação e apaixonada por tecnologia e desenvolvimento de software.
+## ⚙️ Hard Skills
 
-Atualmente, dedico meus estudos ao desenvolvimento de aplicações, buscando compreender todo o ciclo de construção de um software, desde a análise de requisitos e regras de negócio até a implementação, testes e deploy. Tenho interesse em desenvolvimento Full Stack, com experiência em tecnologias como Java, Spring Boot, React e Python.
+### ↪ Frontend
 
-Estou sempre buscando aprender novas tecnologias, aprimorar minhas habilidades e desenvolver soluções que unam qualidade de código, inovação e impacto.
-
-## 🏆 Conquistas
-### 🥇 1º Lugar – HackAiá Hackathon
-
-Conquistei o 1º lugar no HackAiá Hackathon, realizado em Aracaju (SE), uma competição voltada ao desenvolvimento de soluções tecnológicas para preservar e fortalecer a cultura junina sergipana.
-
-Durante o evento, tive a oportunidade de trabalhar em equipe na criação de uma solução que unisse tecnologia, negócios e impacto social. Além do desenvolvimento do produto, aprofundei meus conhecimentos em modelagem de negócios, validação de ideias, vendas, empreendedorismo e mercado de tecnologia, compreendendo como transformar uma solução técnica em um produto capaz de gerar valor para as pessoas.
-
-Essa experiência reforçou a importância de desenvolver tecnologia centrada no usuário e mostrou que as melhores soluções surgem quando inovação, colaboração e propósito caminham juntos.
-
-## 🌟 Projeto Principal
-
-### ⭐ TaskFlow
-O TaskFlow é uma plataforma Full Stack de gerenciamento de projetos criada para organizar equipes, tarefas e entregas em um único ambiente. A aplicação foi desenvolvida pensando em um cenário real de software, envolvendo desde o levantamento de requisitos até o deploy da aplicação.
-
-Nesse projeto, desenvolvi habilidades relacionadas à Engenharia de Software, participando de todas as etapas do ciclo de desenvolvimento. Atuei como Tech Lead, Desenvolvedora Full Stack e responsável pelas práticas de DevOps, contribuindo desde a documentação e definição da arquitetura até o desenvolvimento, configuração da infraestrutura e realização do deploy da aplicação.
-
-Link do site: https://taskflow-project-sw.netlify.app/<br>
-Link do repositório frontend: https://github.com/fernandasfarias/taskFlow-frontEnd<br>
-Link do repositório backend: https://github.com/fernandasfarias/taskFlow-backend
-
-Principais funcionalidades:
-- 🔐 Autenticação e autorização com JWT;
-- 👥 Gerenciamento de usuários e perfis;
-- 📌 Criação e acompanhamento de projetos;
-- 📅 Cronograma visual de atividades;
-- 🎯 Milestones e tarefas;
-- 🗂️ Organização de demandas;
-
-Stack:
-- Backend: Java + Spring Boot
-- Frontend: JavaScript + React
-- Banco: PostgreSQL
-
-## 🛠️  Tech Stack
-
-### Frontend
- <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
-
-### Backend
-<img src="https://skillicons.dev/icons?i=java,spring,python,postgres" />
-
-### Outros
-<img src="https://skillicons.dev/icons?i=git,github,docker" />
-
-## 📫 Contato
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/fernandaafariass" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:fernandafariass734@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://www.instagram.com/nandasfarias_/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-A855F7?style=for-the-badge&logo=html5&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/CSS3-C084FC?style=for-the-badge&logo=css3&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/JavaScript-9333EA?style=for-the-badge&logo=javascript&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/TypeScript-7E22CE?style=for-the-badge&logo=typescript&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/React-A855F7?style=for-the-badge&logo=react&logoColor=FFFFFF" />
 </p>
 
+### ↪ Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Java-9333EA?style=for-the-badge&logo=openjdk&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Spring-C084FC?style=for-the-badge&logo=spring&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Python-A855F7?style=for-the-badge&logo=python&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/PostgreSQL-7E22CE?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" />
+</p>
+
+### ↪ Outros
+
+<p>
+  <img src="https://img.shields.io/badge/Git-C084FC?style=for-the-badge&logo=git&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/GitHub-9333EA?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Docker-A855F7?style=for-the-badge&logo=docker&logoColor=FFFFFF" />
+</p>
