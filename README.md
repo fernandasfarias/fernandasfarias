@@ -1,7 +1,10 @@
-# 💜 Fernanda Farias
+# <img src="https://skillicons.dev/icons?i=github&theme=dark" height="32" /> Fernanda Farias
+
 ↪ Estudante de Sistemas de Informação (UFS) <br>
-↪ Foco em esenvolvimento de software <br>
-↪ Pesquisadora na área de Engenharia de Software <br>
+↪ Desenvolvedora de Software <br>
+↪ Assessora RH da Softeam <br>
+↪ Atuando no Tribunal de Justiça de Sergipe (TJSE)  <br>
+↪ Pesquisadora na área de Engenharia de Software 
 
 ## ⚙️ Hard Skills
 
@@ -30,4 +33,17 @@
   <img src="https://img.shields.io/badge/Git-C084FC?style=for-the-badge&logo=git&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/GitHub-9333EA?style=for-the-badge&logo=github&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Docker-A855F7?style=for-the-badge&logo=docker&logoColor=FFFFFF" />
+</p>
+
+
+## 🌐 Redes Sociais
+
+<p>
+  <a href="https://www.linkedin.com/in/fernandaafariass/">
+    <img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
+  </a>
+  
+  <a href="mailto:fernandafariass734@gmail.com">
+    <img src="https://img.shields.io/badge/Email-C084FC?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
+  </a>
 </p>
