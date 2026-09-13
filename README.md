@@ -3,7 +3,7 @@
 ↪ Estudante de Sistemas de Informação (UFS) <br>
 ↪ Desenvolvedora de Software <br>
 ↪ Assessora RH da Softeam <br>
-↪ Atuando no Tribunal de Justiça de Sergipe (TJSE)  <br>
+↪ Atuando como desenvolvedora de sistemas no Tribunal de Justiça de Sergipe (TJSE)  <br>
 ↪ Pesquisadora na área de Engenharia de Software 
 
 ## ⚙️ Hard Skills
