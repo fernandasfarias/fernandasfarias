@@ -1,39 +1,52 @@
 # <img src="https://skillicons.dev/icons?i=github&theme=dark" height="32" /> Fernanda Farias
 
-↪ Estudante de Sistemas de Informação (UFS) <br>
-↪ Desenvolvedora de Software <br>
-↪ Assessora RH da Softeam <br>
-↪ Atuando como desenvolvedora de sistemas no Tribunal de Justiça de Sergipe (TJSE)  <br>
-↪ Pesquisadora na área de Engenharia de Software 
+↪ Desenvolvedora de Software no Tribunal de Justiça de Sergipe (TJSE)  
+↪ Assessora de Recursos Humanos na Softeam Empresa Júnior  
+↪ Pesquisadora em Engenharia de Software (Iniciação Científica)  
+↪ Pesquisando o uso de Large Language Models (LLMs) no apoio à avaliação da arquitetura de software  
+
 
 ## ⚙️ Hard Skills
 
 ### ↪ Frontend
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-A855F7?style=for-the-badge&logo=html5&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/CSS3-C084FC?style=for-the-badge&logo=css3&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/JavaScript-9333EA?style=for-the-badge&logo=javascript&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/TypeScript-7E22CE?style=for-the-badge&logo=typescript&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/React-A855F7?style=for-the-badge&logo=react&logoColor=FFFFFF" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=light" />
 </p>
 
 ### ↪ Backend
 
 <p>
-  <img src="https://img.shields.io/badge/Java-9333EA?style=for-the-badge&logo=openjdk&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Spring-C084FC?style=for-the-badge&logo=spring&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Python-A855F7?style=for-the-badge&logo=python&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/PostgreSQL-7E22CE?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,php&theme=light" />
 </p>
 
-### ↪ Outros
+### ↪ Banco de Dados
 
 <p>
-  <img src="https://img.shields.io/badge/Git-C084FC?style=for-the-badge&logo=git&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/GitHub-9333EA?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Docker-A855F7?style=for-the-badge&logo=docker&logoColor=FFFFFF" />
+  <img src="https://skillicons.dev/icons?i=postgres&theme=light" />
 </p>
+
+### ↪ Ferramentas e Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux&theme=light" />
+</p>
+
+### ↪ Inteligência Artificial e Dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python&theme=light" />
+</p>
+
+### ↪ Engenharia de Software
+
+- Arquitetura MVC
+- Refatoração de código
+- APIs REST
+- GitFlow
+- Modelagem de dados
+- Migrations
+
 
 ## 💻 Projetos
 
@@ -79,14 +92,10 @@
   </tbody>
 </table>
 
-## 🌐 Redes Sociais
+## 🌐 Conecte-se comigo
 
-<p>
-  <a href="https://www.linkedin.com/in/fernandaafariass/">
-    <img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
-  </a>
-  
-  <a href="mailto:fernandafariass734@gmail.com">
-    <img src="https://img.shields.io/badge/Email-C084FC?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/fernandaafariass" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="45" alt="LinkedIn" />
   </a>
 </p>
